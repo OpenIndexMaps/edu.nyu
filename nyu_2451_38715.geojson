@@ -1,36 +1,1476 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39685", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38686", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38686", "label": "02", "title": "Global Navigation and Planning Chart, Sheet 2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -129.991366725399956, 67.993843962699998, 518.760009765625 ], [ -64.996431802370736, 67.993843962699998, 518.760009765625 ], [ -64.996431802370736, 23.996108868300169, 518.760009765625 ], [ -129.991366725399956, 23.996108868300169, 518.760009765625 ], [ -129.991366725399956, 67.993843962699998, 518.760009765625 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39686", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38687", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38687", "label": "03", "title": "Global Navigation and Planning Chart, Sheet 3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -69.997818170484749, 67.999350928874733, 498.540008544921875 ], [ -9.994832501692908, 67.999350928874733, 498.540008544921875 ], [ -9.994832501692908, 39.994190141625374, 498.540008544921875 ], [ -69.997818170484749, 39.994190141625374, 498.540008544921875 ], [ -69.997818170484749, 67.999350928874733, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39687", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38688", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38688", "label": "04", "title": "Global Navigation and Planning Chart, Sheet 4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -10.003051757812496, 67.999350928874733, 498.540008544921875 ], [ 70.023321649830734, 67.999350928874733, 498.540008544921875 ], [ 70.023321649830734, 39.990759031078127, 498.540008544921875 ], [ -10.003051757812496, 39.990759031078127, 498.540008544921875 ], [ -10.003051757812496, 67.999350928874733, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39688", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38689", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38689", "label": "05", "title": "Global Navigation and Planning Chart, Sheet 5" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 70.0038681516222, 67.994872425690019, 498.540008544921875 ], [ 153.998195380924273, 67.994872425690019, 498.540008544921875 ], [ 153.998195380924273, 39.991894287483809, 498.540008544921875 ], [ 70.0038681516222, 39.991894287483809, 498.540008544921875 ], [ 70.0038681516222, 67.994872425690019, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39689", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38690", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38690", "label": "06E", "title": "Global Navigation and Planning Chart, Sheet 06 E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.004805802437716, 67.994872425690019, 498.540008544921875 ], [ 179.995351184603948, 67.994872425690019, 498.540008544921875 ], [ 179.995351184603948, 39.998756222156793, 498.540008544921875 ], [ 145.004805802437716, 39.998756222156793, 498.540008544921875 ], [ 145.004805802437716, 67.994872425690019, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39690", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38691", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38691", "label": "06W", "title": "Global Navigation and Planning Chart, Sheet 06 W" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -180.0, 67.999350928874733, 498.540008544921875 ], [ -129.997511942673725, 67.999350928874733, 498.540008544921875 ], [ -129.997511942673725, 39.99762107980915, 498.540008544921875 ], [ -180.0, 39.99762107980915, 498.540008544921875 ], [ -180.0, 67.999350928874733, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39691", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38692", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38692", "label": "07E", "title": "Global Navigation and Planning Chart, Sheet 07 E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 143.502590503179988, 39.995270296819982, 498.540008544921875 ], [ 179.997912916843518, 39.995270296819982, 498.540008544921875 ], [ 179.997912916843518, -0.004861798587368, 498.540008544921875 ], [ 143.502590503179988, -0.004861798587368, 498.540008544921875 ], [ 143.502590503179988, 39.995270296819982, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39692", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38693", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38693", "label": "07W", "title": "Global Navigation and Planning Chart, Sheet 07 W" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -179.997948297641443, 39.9997488, 498.540008544921875 ], [ -155.99764975598768, 39.9997488, 498.540008544921875 ], [ -155.99764975598768, -0.003494244536348, 498.540008544921875 ], [ -179.997948297641443, -0.003494244536348, 498.540008544921875 ], [ -179.997948297641443, 39.9997488, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39693", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38694", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38694", "label": "08", "title": "Global Navigation and Planning Chart, Sheet 8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -159.997818170484749, 39.99974877034677, 498.540008544921875 ], [ -99.990353998508297, 39.99974877034677, 498.540008544921875 ], [ -99.990353998508297, -0.00349432919293, 498.540008544921875 ], [ -159.997818170484749, -0.00349432919293, 498.540008544921875 ], [ -159.997818170484749, 39.99974877034677, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39694", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38695", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38695", "label": "09", "title": "Global Navigation and Planning Chart, Sheet 9" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -99.996315162155398, 39.9948466513517, 518.760009765625 ], [ -49.993012961955095, 39.9948466513517, 518.760009765625 ], [ -49.993012961955095, -0.002676812019893, 518.760009765625 ], [ -99.996315162155398, -0.002676812019893, 518.760009765625 ], [ -99.996315162155398, 39.9948466513517, 518.760009765625 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39695", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38696", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38696", "label": "10", "title": "Global Navigation and Planning Chart, Sheet 10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -50.0018848, 39.9997488, 498.540008544921875 ], [ -14.984468435580155, 39.9997488, 498.540008544921875 ], [ -14.984468435580155, -0.007972747631115, 498.540008544921875 ], [ -50.0018848, -0.007972747631115, 498.540008544921875 ], [ -50.0018848, 39.9997488, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39696", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38697", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38697", "label": "11", "title": "Global Navigation and Planning Chart, Sheet 11" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -15.0008057, 39.9997488, 498.540008544921875 ], [ 40.008648859940017, 39.9997488, 498.540008544921875 ], [ 40.008648859940017, -0.007972747631319, 498.540008544921875 ], [ -15.0008057, -0.007972747631319, 498.540008544921875 ], [ -15.0008057, 39.9997488, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39697", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38698", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38698", "label": "12", "title": "Global Navigation and Planning Chart, Sheet 12" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.998112399999989, 39.9997488, 498.540008544921875 ], [ 90.009557411059944, 39.9997488, 498.540008544921875 ], [ 90.009557411059944, -0.007972747631268, 498.540008544921875 ], [ 39.998112399999989, -0.007972747631268, 498.540008544921875 ], [ 39.998112399999989, 39.9997488, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39698", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38699", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38699", "label": "13", "title": "Global Navigation and Planning Chart, Sheet 13" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.002424599999983, 39.995270296819982, 498.540008544921875 ], [ 145.007400656837376, 39.995270296819982, 498.540008544921875 ], [ 145.007400656837376, -0.004861798836266, 498.540008544921875 ], [ 90.002424599999983, -0.004861798836266, 498.540008544921875 ], [ 90.002424599999983, 39.995270296819982, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39699", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38700", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38700", "label": "14", "title": "Global Navigation and Planning Chart, Sheet 14" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 109.997701, -0.002239251590003, 498.540008544921875 ], [ 165.011634063120141, -0.002239251590003, 498.540008544921875 ], [ 165.011634063120141, -40.011001491784683, 498.540008544921875 ], [ 109.997701, -40.011001491784683, 498.540008544921875 ], [ 109.997701, -0.002239251590003, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39700", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38701", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38701", "label": "15", "title": "Global Navigation and Planning Chart, Sheet 15" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 67.9992757, -0.002239251590003, 498.540008544921875 ], [ 110.016592534759724, -0.002239251590003, 498.540008544921875 ], [ 110.016592534759724, -40.011001491784384, 498.540008544921875 ], [ 67.9992757, -40.011001491784384, 498.540008544921875 ], [ 67.9992757, -0.002239251590003, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39701", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38702", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38702", "label": "16", "title": "Global Navigation and Planning Chart, Sheet 16" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.000326, -0.002239251590003, 498.540008544921875 ], [ 68.01485619371995, -0.002239251590003, 498.540008544921875 ], [ 68.01485619371995, -40.011001491784569, 498.540008544921875 ], [ 10.000326, -40.011001491784569, 498.540008544921875 ], [ 10.000326, -0.002239251590003, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39702", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38703", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38703", "label": "17", "title": "Global Navigation and Planning Chart, Sheet 17" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -39.998358399999987, -0.002239251590003, 498.540008544921875 ], [ 10.013086611059991, -0.002239251590003, 498.540008544921875 ], [ 10.013086611059991, -40.011001491784569, 498.540008544921875 ], [ -39.998358399999987, -40.011001491784569, 498.540008544921875 ], [ -39.998358399999987, -0.002239251590003, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39703", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38704", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38704", "label": "18", "title": "Global Navigation and Planning Chart, Sheet 18" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -95.0018844, -0.002239251590003, 498.540008544921875 ], [ -39.987951336880009, -0.002239251590003, 498.540008544921875 ], [ -39.987951336880009, -40.011001491784569, 498.540008544921875 ], [ -95.0018844, -40.011001491784569, 498.540008544921875 ], [ -95.0018844, -0.002239251590003, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39704", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38705", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38705", "label": "19", "title": "Global Navigation and Planning Chart, Sheet 19" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -155.000267, -0.002239251590003, 498.540008544921875 ], [ -94.988324387999938, -0.002239251590003, 498.540008544921875 ], [ -94.988324387999938, -40.011001491784633, 498.540008544921875 ], [ -155.000267, -40.011001491784633, 498.540008544921875 ], [ -155.000267, -0.002239251590003, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39705", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38706", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38706", "label": "20E", "title": "Global Navigation and Planning Chart, Sheet 20 E" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 165.014420509539946, -0.002238431459908, 498.540008544921875 ], [ 179.999492149754929, -0.002238431459908, 498.540008544921875 ], [ 179.999492149754929, -39.997278765692236, 498.540008544921875 ], [ 165.014420509539946, -39.997278765692236, 498.540008544921875 ], [ 165.014420509539946, -0.002238431459908, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39706", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38707", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38707", "label": "20W", "title": "Global Navigation and Planning Chart, Sheet 20 W" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -180.0, 1.999652489999982, 498.540008544921875 ], [ -154.996516746025293, 1.999652489999982, 498.540008544921875 ], [ -154.996516746025293, -40.000398484870651, 498.540008544921875 ], [ -180.0, -40.000398484870651, 498.540008544921875 ], [ -180.0, 1.999652489999982, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39708", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38709", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38709", "label": "21W", "title": "Global Navigation and Planning Chart, Sheet 21 W" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -180.0, -39.99975, 498.540008544921875 ], [ -177.989152072177262, -39.99975, 498.540008544921875 ], [ -177.989152072177262, -75.003746561722508, 498.540008544921875 ], [ -180.0, -75.003746561722508, 498.540008544921875 ], [ -180.0, -39.99975, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39709", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38710", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38710", "label": "22", "title": "Global Navigation and Planning Chart, Sheet 22" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.9375, -40.0, 498.540008544921875 ], [ 95.068869347680021, -40.0, 498.540008544921875 ], [ 95.068869347680021, -75.008465637542926, 498.540008544921875 ], [ 19.9375, -75.008465637542926, 498.540008544921875 ], [ 19.9375, -40.0, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39710", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38711", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38711", "label": "23", "title": "Global Navigation and Planning Chart, Sheet 23" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -50.004272499999985, -39.99975, 498.540008544921875 ], [ 20.039517235199963, -39.99975, 498.540008544921875 ], [ 20.039517235199963, -75.008381217975597, 498.540008544921875 ], [ -50.004272499999985, -75.008381217975597, 498.540008544921875 ], [ -50.004272499999985, -39.99975, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39711", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38712", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38712", "label": "24", "title": "Global Navigation and Planning Chart, Sheet 24" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -125.000908, -39.99975, 498.540008544921875 ], [ -49.959108715919925, -39.99975, 498.540008544921875 ], [ -49.959108715919925, -75.008381217975653, 498.540008544921875 ], [ -125.000908, -75.008381217975653, 498.540008544921875 ], [ -125.000908, -39.99975, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39712", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38713", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38713", "label": "25", "title": "Global Navigation and Planning Chart, Sheet 25" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -178.003304, -39.99975, 498.540008544921875 ], [ -124.964390839260076, -39.99975, 498.540008544921875 ], [ -124.964390839260076, -75.008381217975597, 498.540008544921875 ], [ -178.003304, -75.008381217975597, 498.540008544921875 ], [ -178.003304, -39.99975, 498.540008544921875 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39684", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38685", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_38685", "label": "01", "title": "Global Navigation and Planning Chart, Sheet 1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 179.708794152925122, 84.559215767623044, 0.0 ], [ 179.693741250022811, 84.502173793239209, 0.0 ], [ 179.394501892502376, 68.304820674553369, 0.0 ], [ -179.692727132034008, 68.304820674553369, 0.0 ], [ 179.708794152925122, 84.559215767623044, 0.0 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39706", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38707", "websiteUrl": "Global Navigation and Planning Chart, Sheet 20 W", "label": "20W", "title": "Global Navigation and Planning Chart, Sheet 20 W" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -178.369782595323187, -1.471109920851691, 0.0 ], [ -157.437901611393556, -1.471109920851691, 0.0 ], [ -156.839847868995548, -37.609777603281593, 0.0 ], [ -178.66880946652222, -38.551263737313462, 0.0 ], [ -178.369782595323187, -1.471109920851691, 0.0 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "39713", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/38714", "websiteUrl": "Global Navigation and Planning Chart, Sheet 26", "label": "26", "title": "Global Navigation and Planning Chart, Sheet 26" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -179.502133861922459, -75.328092685686357, 0.0 ], [ 178.534751031734629, -75.246023466965582, 0.0 ], [ 177.242199100710565, -79.686989163318458, 0.0 ], [ -179.17899587916645, -79.686989163318458, 0.0 ], [ -179.502133861922459, -75.328092685686357, 0.0 ] ] ] } }
-]
+    "type" : "FeatureCollection",
+    "features" : [
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -129.99136672539996,
+                    23.99610886830017,
+                    -64.99643180237074,
+                    67.9938439627
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -129.99136672539996,
+                            67.9938439627,
+                            518.760009765625
+                        ],
+                        [
+                            -64.99643180237074,
+                            67.9938439627,
+                            518.760009765625
+                        ],
+                        [
+                            -64.99643180237074,
+                            23.99610886830017,
+                            518.760009765625
+                        ],
+                        [
+                            -129.99136672539996,
+                            23.99610886830017,
+                            518.760009765625
+                        ],
+                        [
+                            -129.99136672539996,
+                            67.9938439627,
+                            518.760009765625
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39685",
+                "downloadUrl" : "http://hdl.handle.net/2451/38686",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38686",
+                "label" : "02",
+                "title" : "Global Navigation and Planning Chart, Sheet 2"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99781817048475,
+                    39.994190141625374,
+                    -9.994832501692908,
+                    67.99935092887473
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99781817048475,
+                            67.99935092887473,
+                            498.5400085449219
+                        ],
+                        [
+                            -9.994832501692908,
+                            67.99935092887473,
+                            498.5400085449219
+                        ],
+                        [
+                            -9.994832501692908,
+                            39.994190141625374,
+                            498.5400085449219
+                        ],
+                        [
+                            -69.99781817048475,
+                            39.994190141625374,
+                            498.5400085449219
+                        ],
+                        [
+                            -69.99781817048475,
+                            67.99935092887473,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39686",
+                "downloadUrl" : "http://hdl.handle.net/2451/38687",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38687",
+                "label" : "03",
+                "title" : "Global Navigation and Planning Chart, Sheet 3"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -10.003051757812496,
+                    39.99075903107813,
+                    70.02332164983073,
+                    67.99935092887473
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -10.003051757812496,
+                            67.99935092887473,
+                            498.5400085449219
+                        ],
+                        [
+                            70.02332164983073,
+                            67.99935092887473,
+                            498.5400085449219
+                        ],
+                        [
+                            70.02332164983073,
+                            39.99075903107813,
+                            498.5400085449219
+                        ],
+                        [
+                            -10.003051757812496,
+                            39.99075903107813,
+                            498.5400085449219
+                        ],
+                        [
+                            -10.003051757812496,
+                            67.99935092887473,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39687",
+                "downloadUrl" : "http://hdl.handle.net/2451/38688",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38688",
+                "label" : "04",
+                "title" : "Global Navigation and Planning Chart, Sheet 4"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    70.0038681516222,
+                    39.99189428748381,
+                    153.99819538092427,
+                    67.99487242569002
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            70.0038681516222,
+                            67.99487242569002,
+                            498.5400085449219
+                        ],
+                        [
+                            153.99819538092427,
+                            67.99487242569002,
+                            498.5400085449219
+                        ],
+                        [
+                            153.99819538092427,
+                            39.99189428748381,
+                            498.5400085449219
+                        ],
+                        [
+                            70.0038681516222,
+                            39.99189428748381,
+                            498.5400085449219
+                        ],
+                        [
+                            70.0038681516222,
+                            67.99487242569002,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39688",
+                "downloadUrl" : "http://hdl.handle.net/2451/38689",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38689",
+                "label" : "05",
+                "title" : "Global Navigation and Planning Chart, Sheet 5"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    145.00480580243772,
+                    39.99875622215679,
+                    179.99535118460395,
+                    67.99487242569002
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            145.00480580243772,
+                            67.99487242569002,
+                            498.5400085449219
+                        ],
+                        [
+                            179.99535118460395,
+                            67.99487242569002,
+                            498.5400085449219
+                        ],
+                        [
+                            179.99535118460395,
+                            39.99875622215679,
+                            498.5400085449219
+                        ],
+                        [
+                            145.00480580243772,
+                            39.99875622215679,
+                            498.5400085449219
+                        ],
+                        [
+                            145.00480580243772,
+                            67.99487242569002,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39689",
+                "downloadUrl" : "http://hdl.handle.net/2451/38690",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38690",
+                "label" : "06E",
+                "title" : "Global Navigation and Planning Chart, Sheet 06 E"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -180,
+                    39.99762107980915,
+                    -129.99751194267373,
+                    67.99935092887473
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -180,
+                            67.99935092887473,
+                            498.5400085449219
+                        ],
+                        [
+                            -129.99751194267373,
+                            67.99935092887473,
+                            498.5400085449219
+                        ],
+                        [
+                            -129.99751194267373,
+                            39.99762107980915,
+                            498.5400085449219
+                        ],
+                        [
+                            -180,
+                            39.99762107980915,
+                            498.5400085449219
+                        ],
+                        [
+                            -180,
+                            67.99935092887473,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39690",
+                "downloadUrl" : "http://hdl.handle.net/2451/38691",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38691",
+                "label" : "06W",
+                "title" : "Global Navigation and Planning Chart, Sheet 06 W"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    143.50259050318,
+                    -0.004861798587368,
+                    179.99791291684352,
+                    39.99527029681998
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            143.50259050318,
+                            39.99527029681998,
+                            498.5400085449219
+                        ],
+                        [
+                            179.99791291684352,
+                            39.99527029681998,
+                            498.5400085449219
+                        ],
+                        [
+                            179.99791291684352,
+                            -0.004861798587368,
+                            498.5400085449219
+                        ],
+                        [
+                            143.50259050318,
+                            -0.004861798587368,
+                            498.5400085449219
+                        ],
+                        [
+                            143.50259050318,
+                            39.99527029681998,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39691",
+                "downloadUrl" : "http://hdl.handle.net/2451/38692",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38692",
+                "label" : "07E",
+                "title" : "Global Navigation and Planning Chart, Sheet 07 E"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -179.99794829764144,
+                    -0.003494244536348,
+                    -155.99764975598768,
+                    39.9997488
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -179.99794829764144,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            -155.99764975598768,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            -155.99764975598768,
+                            -0.003494244536348,
+                            498.5400085449219
+                        ],
+                        [
+                            -179.99794829764144,
+                            -0.003494244536348,
+                            498.5400085449219
+                        ],
+                        [
+                            -179.99794829764144,
+                            39.9997488,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39692",
+                "downloadUrl" : "http://hdl.handle.net/2451/38693",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38693",
+                "label" : "07W",
+                "title" : "Global Navigation and Planning Chart, Sheet 07 W"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -159.99781817048475,
+                    -0.00349432919293,
+                    -99.9903539985083,
+                    39.99974877034677
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -159.99781817048475,
+                            39.99974877034677,
+                            498.5400085449219
+                        ],
+                        [
+                            -99.9903539985083,
+                            39.99974877034677,
+                            498.5400085449219
+                        ],
+                        [
+                            -99.9903539985083,
+                            -0.00349432919293,
+                            498.5400085449219
+                        ],
+                        [
+                            -159.99781817048475,
+                            -0.00349432919293,
+                            498.5400085449219
+                        ],
+                        [
+                            -159.99781817048475,
+                            39.99974877034677,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39693",
+                "downloadUrl" : "http://hdl.handle.net/2451/38694",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38694",
+                "label" : "08",
+                "title" : "Global Navigation and Planning Chart, Sheet 8"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -99.9963151621554,
+                    -0.002676812019893,
+                    -49.993012961955095,
+                    39.9948466513517
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -99.9963151621554,
+                            39.9948466513517,
+                            518.760009765625
+                        ],
+                        [
+                            -49.993012961955095,
+                            39.9948466513517,
+                            518.760009765625
+                        ],
+                        [
+                            -49.993012961955095,
+                            -0.002676812019893,
+                            518.760009765625
+                        ],
+                        [
+                            -99.9963151621554,
+                            -0.002676812019893,
+                            518.760009765625
+                        ],
+                        [
+                            -99.9963151621554,
+                            39.9948466513517,
+                            518.760009765625
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39694",
+                "downloadUrl" : "http://hdl.handle.net/2451/38695",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38695",
+                "label" : "09",
+                "title" : "Global Navigation and Planning Chart, Sheet 9"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -50.001884800000006,
+                    -0.007972747631115,
+                    -14.984468435580155,
+                    39.9997488
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -50.001884800000006,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            -14.984468435580155,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            -14.984468435580155,
+                            -0.007972747631115,
+                            498.5400085449219
+                        ],
+                        [
+                            -50.001884800000006,
+                            -0.007972747631115,
+                            498.5400085449219
+                        ],
+                        [
+                            -50.001884800000006,
+                            39.9997488,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39695",
+                "downloadUrl" : "http://hdl.handle.net/2451/38696",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38696",
+                "label" : "10",
+                "title" : "Global Navigation and Planning Chart, Sheet 10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -15.000805700000003,
+                    -0.007972747631319,
+                    40.00864885994002,
+                    39.9997488
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -15.000805700000003,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            40.00864885994002,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            40.00864885994002,
+                            -0.007972747631319,
+                            498.5400085449219
+                        ],
+                        [
+                            -15.000805700000003,
+                            -0.007972747631319,
+                            498.5400085449219
+                        ],
+                        [
+                            -15.000805700000003,
+                            39.9997488,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39696",
+                "downloadUrl" : "http://hdl.handle.net/2451/38697",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38697",
+                "label" : "11",
+                "title" : "Global Navigation and Planning Chart, Sheet 11"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    39.9981124,
+                    -0.007972747631268,
+                    90.00955741105994,
+                    39.9997488
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            39.9981124,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            90.00955741105994,
+                            39.9997488,
+                            498.5400085449219
+                        ],
+                        [
+                            90.00955741105994,
+                            -0.007972747631268,
+                            498.5400085449219
+                        ],
+                        [
+                            39.9981124,
+                            -0.007972747631268,
+                            498.5400085449219
+                        ],
+                        [
+                            39.9981124,
+                            39.9997488,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39697",
+                "downloadUrl" : "http://hdl.handle.net/2451/38698",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38698",
+                "label" : "12",
+                "title" : "Global Navigation and Planning Chart, Sheet 12"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    90.0024246,
+                    -0.004861798836266,
+                    145.00740065683738,
+                    39.99527029681998
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            90.0024246,
+                            39.99527029681998,
+                            498.5400085449219
+                        ],
+                        [
+                            145.00740065683738,
+                            39.99527029681998,
+                            498.5400085449219
+                        ],
+                        [
+                            145.00740065683738,
+                            -0.004861798836266,
+                            498.5400085449219
+                        ],
+                        [
+                            90.0024246,
+                            -0.004861798836266,
+                            498.5400085449219
+                        ],
+                        [
+                            90.0024246,
+                            39.99527029681998,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39698",
+                "downloadUrl" : "http://hdl.handle.net/2451/38699",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38699",
+                "label" : "13",
+                "title" : "Global Navigation and Planning Chart, Sheet 13"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    109.997701,
+                    -40.01100149178469,
+                    165.01163406312014,
+                    -0.002239251590003
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            109.997701,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            165.01163406312014,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            165.01163406312014,
+                            -40.01100149178469,
+                            498.5400085449219
+                        ],
+                        [
+                            109.997701,
+                            -40.01100149178469,
+                            498.5400085449219
+                        ],
+                        [
+                            109.997701,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39699",
+                "downloadUrl" : "http://hdl.handle.net/2451/38700",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38700",
+                "label" : "14",
+                "title" : "Global Navigation and Planning Chart, Sheet 14"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    67.9992757,
+                    -40.011001491784384,
+                    110.01659253475972,
+                    -0.002239251590003
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            67.9992757,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            110.01659253475972,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            110.01659253475972,
+                            -40.011001491784384,
+                            498.5400085449219
+                        ],
+                        [
+                            67.9992757,
+                            -40.011001491784384,
+                            498.5400085449219
+                        ],
+                        [
+                            67.9992757,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39700",
+                "downloadUrl" : "http://hdl.handle.net/2451/38701",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38701",
+                "label" : "15",
+                "title" : "Global Navigation and Planning Chart, Sheet 15"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    10.000326,
+                    -40.01100149178457,
+                    68.01485619371995,
+                    -0.002239251590003
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            10.000326,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            68.01485619371995,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            68.01485619371995,
+                            -40.01100149178457,
+                            498.5400085449219
+                        ],
+                        [
+                            10.000326,
+                            -40.01100149178457,
+                            498.5400085449219
+                        ],
+                        [
+                            10.000326,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39701",
+                "downloadUrl" : "http://hdl.handle.net/2451/38702",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38702",
+                "label" : "16",
+                "title" : "Global Navigation and Planning Chart, Sheet 16"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -39.99835839999999,
+                    -40.01100149178457,
+                    10.013086611059991,
+                    -0.002239251590003
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -39.99835839999999,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            10.013086611059991,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            10.013086611059991,
+                            -40.01100149178457,
+                            498.5400085449219
+                        ],
+                        [
+                            -39.99835839999999,
+                            -40.01100149178457,
+                            498.5400085449219
+                        ],
+                        [
+                            -39.99835839999999,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39702",
+                "downloadUrl" : "http://hdl.handle.net/2451/38703",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38703",
+                "label" : "17",
+                "title" : "Global Navigation and Planning Chart, Sheet 17"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -95.0018844,
+                    -40.01100149178457,
+                    -39.98795133688001,
+                    -0.002239251590003
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -95.0018844,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            -39.98795133688001,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            -39.98795133688001,
+                            -40.01100149178457,
+                            498.5400085449219
+                        ],
+                        [
+                            -95.0018844,
+                            -40.01100149178457,
+                            498.5400085449219
+                        ],
+                        [
+                            -95.0018844,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39703",
+                "downloadUrl" : "http://hdl.handle.net/2451/38704",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38704",
+                "label" : "18",
+                "title" : "Global Navigation and Planning Chart, Sheet 18"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -155.000267,
+                    -40.01100149178463,
+                    -94.98832438799994,
+                    -0.002239251590003
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -155.000267,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            -94.98832438799994,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ],
+                        [
+                            -94.98832438799994,
+                            -40.01100149178463,
+                            498.5400085449219
+                        ],
+                        [
+                            -155.000267,
+                            -40.01100149178463,
+                            498.5400085449219
+                        ],
+                        [
+                            -155.000267,
+                            -0.002239251590003,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39704",
+                "downloadUrl" : "http://hdl.handle.net/2451/38705",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38705",
+                "label" : "19",
+                "title" : "Global Navigation and Planning Chart, Sheet 19"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    165.01442050953997,
+                    -39.997278765692236,
+                    179.99949214975493,
+                    -0.002238431459908
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            165.01442050953997,
+                            -0.002238431459908,
+                            498.5400085449219
+                        ],
+                        [
+                            179.99949214975493,
+                            -0.002238431459908,
+                            498.5400085449219
+                        ],
+                        [
+                            179.99949214975493,
+                            -39.997278765692236,
+                            498.5400085449219
+                        ],
+                        [
+                            165.01442050953997,
+                            -39.997278765692236,
+                            498.5400085449219
+                        ],
+                        [
+                            165.01442050953997,
+                            -0.002238431459908,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39705",
+                "downloadUrl" : "http://hdl.handle.net/2451/38706",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38706",
+                "label" : "20E",
+                "title" : "Global Navigation and Planning Chart, Sheet 20 E"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -180,
+                    -40.00039848487065,
+                    -154.9965167460253,
+                    1.999652489999982
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -180,
+                            1.999652489999982,
+                            498.5400085449219
+                        ],
+                        [
+                            -154.9965167460253,
+                            1.999652489999982,
+                            498.5400085449219
+                        ],
+                        [
+                            -154.9965167460253,
+                            -40.00039848487065,
+                            498.5400085449219
+                        ],
+                        [
+                            -180,
+                            -40.00039848487065,
+                            498.5400085449219
+                        ],
+                        [
+                            -180,
+                            1.999652489999982,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39706",
+                "downloadUrl" : "http://hdl.handle.net/2451/38707",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38707",
+                "label" : "20W",
+                "title" : "Global Navigation and Planning Chart, Sheet 20 W"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -180,
+                    -75.00374656172251,
+                    -177.98915207217726,
+                    -39.99975
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -180,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            -177.98915207217726,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            -177.98915207217726,
+                            -75.00374656172251,
+                            498.5400085449219
+                        ],
+                        [
+                            -180,
+                            -75.00374656172251,
+                            498.5400085449219
+                        ],
+                        [
+                            -180,
+                            -39.99975,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39708",
+                "downloadUrl" : "http://hdl.handle.net/2451/38709",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38709",
+                "label" : "21W",
+                "title" : "Global Navigation and Planning Chart, Sheet 21 W"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    19.9375,
+                    -75.00846563754293,
+                    95.06886934768002,
+                    -40
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            19.9375,
+                            -40,
+                            498.5400085449219
+                        ],
+                        [
+                            95.06886934768002,
+                            -40,
+                            498.5400085449219
+                        ],
+                        [
+                            95.06886934768002,
+                            -75.00846563754293,
+                            498.5400085449219
+                        ],
+                        [
+                            19.9375,
+                            -75.00846563754293,
+                            498.5400085449219
+                        ],
+                        [
+                            19.9375,
+                            -40,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39709",
+                "downloadUrl" : "http://hdl.handle.net/2451/38710",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38710",
+                "label" : "22",
+                "title" : "Global Navigation and Planning Chart, Sheet 22"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -50.004272499999985,
+                    -75.0083812179756,
+                    20.039517235199963,
+                    -39.99975
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -50.004272499999985,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            20.039517235199963,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            20.039517235199963,
+                            -75.0083812179756,
+                            498.5400085449219
+                        ],
+                        [
+                            -50.004272499999985,
+                            -75.0083812179756,
+                            498.5400085449219
+                        ],
+                        [
+                            -50.004272499999985,
+                            -39.99975,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39710",
+                "downloadUrl" : "http://hdl.handle.net/2451/38711",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38711",
+                "label" : "23",
+                "title" : "Global Navigation and Planning Chart, Sheet 23"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -125.00090799999998,
+                    -75.00838121797565,
+                    -49.959108715919925,
+                    -39.99975
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -125.00090799999998,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            -49.959108715919925,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            -49.959108715919925,
+                            -75.00838121797565,
+                            498.5400085449219
+                        ],
+                        [
+                            -125.00090799999998,
+                            -75.00838121797565,
+                            498.5400085449219
+                        ],
+                        [
+                            -125.00090799999998,
+                            -39.99975,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39711",
+                "downloadUrl" : "http://hdl.handle.net/2451/38712",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38712",
+                "label" : "24",
+                "title" : "Global Navigation and Planning Chart, Sheet 24"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -178.003304,
+                    -75.0083812179756,
+                    -124.96439083926008,
+                    -39.99975
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -178.003304,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            -124.96439083926008,
+                            -39.99975,
+                            498.5400085449219
+                        ],
+                        [
+                            -124.96439083926008,
+                            -75.0083812179756,
+                            498.5400085449219
+                        ],
+                        [
+                            -178.003304,
+                            -75.0083812179756,
+                            498.5400085449219
+                        ],
+                        [
+                            -178.003304,
+                            -39.99975,
+                            498.5400085449219
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39712",
+                "downloadUrl" : "http://hdl.handle.net/2451/38713",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38713",
+                "label" : "25",
+                "title" : "Global Navigation and Planning Chart, Sheet 25"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -179.69272713203404,
+                    68.30482067455337,
+                    179.70879415292512,
+                    84.55921576762304
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            179.70879415292512,
+                            84.55921576762304,
+                            0
+                        ],
+                        [
+                            179.6937412500228,
+                            84.50217379323921,
+                            0
+                        ],
+                        [
+                            179.39450189250238,
+                            68.30482067455337,
+                            0
+                        ],
+                        [
+                            -179.69272713203404,
+                            68.30482067455337,
+                            0
+                        ],
+                        [
+                            179.70879415292512,
+                            84.55921576762304,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39684",
+                "downloadUrl" : "http://hdl.handle.net/2451/38685",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_38685",
+                "label" : "01",
+                "title" : "Global Navigation and Planning Chart, Sheet 1"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -178.66880946652222,
+                    -38.55126373731346,
+                    -156.83984786899555,
+                    -1.471109920851691
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -178.3697825953232,
+                            -1.471109920851691,
+                            0
+                        ],
+                        [
+                            -157.43790161139356,
+                            -1.471109920851691,
+                            0
+                        ],
+                        [
+                            -156.83984786899555,
+                            -37.60977760328159,
+                            0
+                        ],
+                        [
+                            -178.66880946652222,
+                            -38.55126373731346,
+                            0
+                        ],
+                        [
+                            -178.3697825953232,
+                            -1.471109920851691,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39706",
+                "downloadUrl" : "http://hdl.handle.net/2451/38707",
+                "websiteUrl" : "Global Navigation and Planning Chart, Sheet 20 W",
+                "label" : "20W",
+                "title" : "Global Navigation and Planning Chart, Sheet 20 W"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -179.50213386192246,
+                    -79.68698916331846,
+                    178.53475103173463,
+                    -75.24602346696558
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -179.50213386192246,
+                            -75.32809268568636,
+                            0
+                        ],
+                        [
+                            178.53475103173463,
+                            -75.24602346696558,
+                            0
+                        ],
+                        [
+                            177.24219910071056,
+                            -79.68698916331846,
+                            0
+                        ],
+                        [
+                            -179.17899587916645,
+                            -79.68698916331846,
+                            0
+                        ],
+                        [
+                            -179.50213386192246,
+                            -75.32809268568636,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifier" : "39713",
+                "downloadUrl" : "http://hdl.handle.net/2451/38714",
+                "websiteUrl" : "Global Navigation and Planning Chart, Sheet 26",
+                "label" : "26",
+                "title" : "Global Navigation and Planning Chart, Sheet 26"
+            }
+        }
+    ],
+    "fileName" : "nyu_2451_38715"
 }

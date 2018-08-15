@@ -1,39 +1,1533 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41791", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40731", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40731", "label": "E020N40", "title": "Global 30 Arc-Second Elevation, Sheet E020N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.0, 40.0, 0.008329999633133 ], [ 60.0, 40.0, 0.008329999633133 ], [ 60.0, -10.0, 0.008329999633133 ], [ 20.0, -10.0, 0.008329999633133 ], [ 20.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41792", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40732", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40732", "label": "E020N90", "title": "Global 30 Arc-Second Elevation, Sheet E020N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.0, 90.0, 0.008329999633133 ], [ 60.0, 90.0, 0.008329999633133 ], [ 60.0, 40.0, 0.008329999633133 ], [ 20.0, 40.0, 0.008329999633133 ], [ 20.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41793", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40733", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40733", "label": "E020S10", "title": "Global 30 Arc-Second Elevation, Sheet E020S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.0, -10.0, 0.008329999633133 ], [ 60.0, -10.0, 0.008329999633133 ], [ 60.0, -60.0, 0.008329999633133 ], [ 20.0, -60.0, 0.008329999633133 ], [ 20.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41794", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40734", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40734", "label": "E060N40", "title": "Global 30 Arc-Second Elevation, Sheet E060N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 60.0, 40.0, 0.008329999633133 ], [ 100.0, 40.0, 0.008329999633133 ], [ 100.0, -10.0, 0.008329999633133 ], [ 60.0, -10.0, 0.008329999633133 ], [ 60.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41795", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40735", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40735", "label": "E060N90", "title": "Global 30 Arc-Second Elevation, Sheet E060N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 60.0, 90.0, 0.008329999633133 ], [ 100.0, 90.0, 0.008329999633133 ], [ 100.0, 40.0, 0.008329999633133 ], [ 60.0, 40.0, 0.008329999633133 ], [ 60.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41796", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40736", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40736", "label": "E060S10", "title": "Global 30 Arc-Second Elevation, Sheet E060S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 60.0, -10.0, 0.008329999633133 ], [ 100.0, -10.0, 0.008329999633133 ], [ 100.0, -60.0, 0.008329999633133 ], [ 60.0, -60.0, 0.008329999633133 ], [ 60.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41797", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40737", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40737", "label": "E060S60", "title": "Global 30 Arc-Second Elevation, Sheet E060S60" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 60.0, -60.0, 0.008329999633133 ], [ 120.0, -60.0, 0.008329999633133 ], [ 120.0, -90.0, 0.008329999633133 ], [ 60.0, -90.0, 0.008329999633133 ], [ 60.0, -60.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41798", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40738", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40738", "label": "E100N40", "title": "Global 30 Arc-Second Elevation, Sheet E100N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 100.0, 40.0, 0.008329999633133 ], [ 140.0, 40.0, 0.008329999633133 ], [ 140.0, -10.0, 0.008329999633133 ], [ 100.0, -10.0, 0.008329999633133 ], [ 100.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41799", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40739", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40739", "label": "E100N90", "title": "Global 30 Arc-Second Elevation, Sheet E100N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 100.0, 90.0, 0.008329999633133 ], [ 140.0, 90.0, 0.008329999633133 ], [ 140.0, 40.0, 0.008329999633133 ], [ 100.0, 40.0, 0.008329999633133 ], [ 100.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41800", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40740", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40740", "label": "E100S10", "title": "Global 30 Arc-Second Elevation, Sheet E100S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 100.0, -10.0, 0.008329999633133 ], [ 140.0, -10.0, 0.008329999633133 ], [ 140.0, -60.0, 0.008329999633133 ], [ 100.0, -60.0, 0.008329999633133 ], [ 100.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41801", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40741", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40741", "label": "E120S60", "title": "Global 30 Arc-Second Elevation, Sheet E120S60" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.0, -60.0, 0.008329999633133 ], [ 180.0, -60.0, 0.008329999633133 ], [ 180.0, -90.0, 0.008329999633133 ], [ 120.0, -90.0, 0.008329999633133 ], [ 120.0, -60.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41802", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40742", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40742", "label": "E140N40", "title": "Global 30 Arc-Second Elevation, Sheet E140N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 140.0, 40.0, 0.008329999633133 ], [ 180.0, 40.0, 0.008329999633133 ], [ 180.0, -10.0, 0.008329999633133 ], [ 140.0, -10.0, 0.008329999633133 ], [ 140.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41803", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40743", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40743", "label": "E140N90", "title": "Global 30 Arc-Second Elevation, Sheet E140N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 140.0, 90.0, 0.008329999633133 ], [ 180.0, 90.0, 0.008329999633133 ], [ 180.0, 40.0, 0.008329999633133 ], [ 140.0, 40.0, 0.008329999633133 ], [ 140.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41804", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40744", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40744", "label": "E140S10", "title": "Global 30 Arc-Second Elevation, Sheet E140S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 140.0, -10.0, 0.008329999633133 ], [ 180.0, -10.0, 0.008329999633133 ], [ 180.0, -60.0, 0.008329999633133 ], [ 140.0, -60.0, 0.008329999633133 ], [ 140.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41805", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40745", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40745", "label": "W000S60", "title": "Global 30 Arc-Second Elevation, Sheet W000S60" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0, -60.0, 0.008329999633133 ], [ 60.0, -60.0, 0.008329999633133 ], [ 60.0, -90.0, 0.008329999633133 ], [ 0.0, -90.0, 0.008329999633133 ], [ 0.0, -60.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41806", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40746", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40746", "label": "W020N40", "title": "Global 30 Arc-Second Elevation, Sheet W020N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -20.0, 40.0, 0.008329999633133 ], [ 20.0, 40.0, 0.008329999633133 ], [ 20.0, -10.0, 0.008329999633133 ], [ -20.0, -10.0, 0.008329999633133 ], [ -20.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41807", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40747", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40747", "label": "W020N90", "title": "Global 30 Arc-Second Elevation, Sheet W020N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -20.0, 90.0, 0.008329999633133 ], [ 20.0, 90.0, 0.008329999633133 ], [ 20.0, 40.0, 0.008329999633133 ], [ -20.0, 40.0, 0.008329999633133 ], [ -20.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41808", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40748", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40748", "label": "W020S10", "title": "Global 30 Arc-Second Elevation, Sheet W020S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -20.0, -10.0, 0.008329999633133 ], [ 20.0, -10.0, 0.008329999633133 ], [ 20.0, -60.0, 0.008329999633133 ], [ -20.0, -60.0, 0.008329999633133 ], [ -20.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41809", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40749", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40749", "label": "W060N40", "title": "Global 30 Arc-Second Elevation, Sheet W060N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.0, 40.0, 0.008329999633133 ], [ -20.0, 40.0, 0.008329999633133 ], [ -20.0, -10.0, 0.008329999633133 ], [ -60.0, -10.0, 0.008329999633133 ], [ -60.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41810", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40750", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40750", "label": "W060N90", "title": "Global 30 Arc-Second Elevation, Sheet W060N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.0, 90.0, 0.008329999633133 ], [ -20.0, 90.0, 0.008329999633133 ], [ -20.0, 40.0, 0.008329999633133 ], [ -60.0, 40.0, 0.008329999633133 ], [ -60.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41811", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40751", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40751", "label": "W060S10", "title": "Global 30 Arc-Second Elevation, Sheet W060S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.0, -10.0, 0.008329999633133 ], [ -20.0, -10.0, 0.008329999633133 ], [ -20.0, -60.0, 0.008329999633133 ], [ -60.0, -60.0, 0.008329999633133 ], [ -60.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41812", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40752", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40752", "label": "W060S60", "title": "Global 30 Arc-Second Elevation, Sheet W060S60" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.0, -60.0, 0.008329999633133 ], [ 0.0, -60.0, 0.008329999633133 ], [ 0.0, -90.0, 0.008329999633133 ], [ -60.0, -90.0, 0.008329999633133 ], [ -60.0, -60.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41813", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40753", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40753", "label": "W100N40", "title": "Global 30 Arc-Second Elevation, Sheet W100N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -100.0, 40.0, 0.008329999633133 ], [ -60.0, 40.0, 0.008329999633133 ], [ -60.0, -10.0, 0.008329999633133 ], [ -100.0, -10.0, 0.008329999633133 ], [ -100.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41814", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40754", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40754", "label": "W100N90", "title": "Global 30 Arc-Second Elevation, Sheet W100N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -100.0, 90.0, 0.008329999633133 ], [ -60.0, 90.0, 0.008329999633133 ], [ -60.0, 40.0, 0.008329999633133 ], [ -100.0, 40.0, 0.008329999633133 ], [ -100.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41815", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40755", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40755", "label": "W100S10", "title": "Global 30 Arc-Second Elevation, Sheet W100S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -100.0, -10.0, 0.008329999633133 ], [ -60.0, -10.0, 0.008329999633133 ], [ -60.0, -60.0, 0.008329999633133 ], [ -100.0, -60.0, 0.008329999633133 ], [ -100.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41816", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40756", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40756", "label": "W120S60", "title": "Global 30 Arc-Second Elevation, Sheet W120S60" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -120.0, -60.0, 0.008329999633133 ], [ -60.0, -60.0, 0.008329999633133 ], [ -60.0, -90.0, 0.008329999633133 ], [ -120.0, -90.0, 0.008329999633133 ], [ -120.0, -60.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41817", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40757", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40757", "label": "W140N40", "title": "Global 30 Arc-Second Elevation, Sheet W140N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -140.0, 40.0, 0.008329999633133 ], [ -100.0, 40.0, 0.008329999633133 ], [ -100.0, -10.0, 0.008329999633133 ], [ -140.0, -10.0, 0.008329999633133 ], [ -140.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41818", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40758", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40758", "label": "W140N90", "title": "Global 30 Arc-Second Elevation, Sheet W140N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -140.0, 90.0, 0.008329999633133 ], [ -100.0, 90.0, 0.008329999633133 ], [ -100.0, 40.0, 0.008329999633133 ], [ -140.0, 40.0, 0.008329999633133 ], [ -140.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41819", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40759", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40759", "label": "W140S10", "title": "Global 30 Arc-Second Elevation, Sheet W140S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -140.0, -10.0, 0.008329999633133 ], [ -100.0, -10.0, 0.008329999633133 ], [ -100.0, -60.0, 0.008329999633133 ], [ -140.0, -60.0, 0.008329999633133 ], [ -140.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41820", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40760", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40760", "label": "W180N40", "title": "Global 30 Arc-Second Elevation, Sheet W180N40" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -180.0, 40.0, 0.008329999633133 ], [ -140.0, 40.0, 0.008329999633133 ], [ -140.0, -10.0, 0.008329999633133 ], [ -180.0, -10.0, 0.008329999633133 ], [ -180.0, 40.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41821", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40761", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40761", "label": "W180N90", "title": "Global 30 Arc-Second Elevation, Sheet W180N90" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -180.0, 90.0, 0.008329999633133 ], [ -140.0, 90.0, 0.008329999633133 ], [ -140.0, 40.0, 0.008329999633133 ], [ -180.0, 40.0, 0.008329999633133 ], [ -180.0, 90.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41822", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40762", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40762", "label": "W180S10", "title": "Global 30 Arc-Second Elevation, Sheet W180S10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -180.0, -10.0, 0.008329999633133 ], [ -140.0, -10.0, 0.008329999633133 ], [ -140.0, -60.0, 0.008329999633133 ], [ -180.0, -60.0, 0.008329999633133 ], [ -180.0, -10.0, 0.008329999633133 ] ] ] } },
-{ "type": "Feature", "properties": { "available": "true", "recordIdentifier": "41823", "downloadUrl": "http:\/\/hdl.handle.net\/2451\/40763", "websiteUrl": "https:\/\/geo.nyu.edu\/catalog\/nyu_2451_40763", "label": "W180S60", "title": "Global 30 Arc-Second Elevation, Sheet W180S60" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -180.0, -60.0, 0.008329999633133 ], [ -120.0, -60.0, 0.008329999633133 ], [ -120.0, -90.0, 0.008329999633133 ], [ -180.0, -90.0, 0.008329999633133 ], [ -180.0, -60.0, 0.008329999633133 ] ] ] } }
-]
+    "type" : "FeatureCollection",
+    "features" : [
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    20,
+                    -10,
+                    59.99999999999999,
+                    40
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [20, 40, 0.008329999633133],
+                        [
+                            59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [20, 40, 0.008329999633133]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41791",
+                "downloadUrl" : "http://hdl.handle.net/2451/40731",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40731",
+                "label" : "E020N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E020N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    20,
+                    40,
+                    59.99999999999999,
+                    90
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [20, 90, 0.008329999633133],
+                        [
+                            59.99999999999999,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [20, 40, 0.008329999633133],
+                        [20, 90, 0.008329999633133]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41792",
+                "downloadUrl" : "http://hdl.handle.net/2451/40732",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40732",
+                "label" : "E020N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E020N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    20,
+                    -59.99999999999999,
+                    59.99999999999999,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            20,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            20,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41793",
+                "downloadUrl" : "http://hdl.handle.net/2451/40733",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40733",
+                "label" : "E020S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E020S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    59.99999999999999,
+                    -10,
+                    100,
+                    40
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41794",
+                "downloadUrl" : "http://hdl.handle.net/2451/40734",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40734",
+                "label" : "E060N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E060N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    59.99999999999999,
+                    40,
+                    100,
+                    90
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            59.99999999999999,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41795",
+                "downloadUrl" : "http://hdl.handle.net/2451/40735",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40735",
+                "label" : "E060N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E060N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    59.99999999999999,
+                    -59.99999999999999,
+                    100,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41796",
+                "downloadUrl" : "http://hdl.handle.net/2451/40736",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40736",
+                "label" : "E060S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E060S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    59.99999999999999,
+                    -90,
+                    119.99999999999999,
+                    -59.99999999999999
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            119.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            119.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41797",
+                "downloadUrl" : "http://hdl.handle.net/2451/40737",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40737",
+                "label" : "E060S60",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E060S60"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [100, -10, 140, 40],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41798",
+                "downloadUrl" : "http://hdl.handle.net/2451/40738",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40738",
+                "label" : "E100N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E100N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [100, 40, 140, 90],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            100,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41799",
+                "downloadUrl" : "http://hdl.handle.net/2451/40739",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40739",
+                "label" : "E100N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E100N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    100,
+                    -59.99999999999999,
+                    140,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            100,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41800",
+                "downloadUrl" : "http://hdl.handle.net/2451/40740",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40740",
+                "label" : "E100S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E100S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    119.99999999999999,
+                    -90,
+                    180,
+                    -59.99999999999999
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            119.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            119.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            119.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41801",
+                "downloadUrl" : "http://hdl.handle.net/2451/40741",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40741",
+                "label" : "E120S60",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E120S60"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [140, -10, 180, 40],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41802",
+                "downloadUrl" : "http://hdl.handle.net/2451/40742",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40742",
+                "label" : "E140N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E140N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [140, 40, 180, 90],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            140,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41803",
+                "downloadUrl" : "http://hdl.handle.net/2451/40743",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40743",
+                "label" : "E140N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E140N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    140,
+                    -59.99999999999999,
+                    180,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            180,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            140,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41804",
+                "downloadUrl" : "http://hdl.handle.net/2451/40744",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40744",
+                "label" : "E140S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet E140S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    0,
+                    -90,
+                    59.99999999999999,
+                    -59.99999999999999
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            0,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            59.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [0, -90, 0.008329999633133],
+                        [
+                            0,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41805",
+                "downloadUrl" : "http://hdl.handle.net/2451/40745",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40745",
+                "label" : "W000S60",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W000S60"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [-20, -10, 20, 40],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -20,
+                            40,
+                            0.008329999633133
+                        ],
+                        [20, 40, 0.008329999633133],
+                        [
+                            20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41806",
+                "downloadUrl" : "http://hdl.handle.net/2451/40746",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40746",
+                "label" : "W020N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W020N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [-20, 40, 20, 90],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -20,
+                            90,
+                            0.008329999633133
+                        ],
+                        [20, 90, 0.008329999633133],
+                        [20, 40, 0.008329999633133],
+                        [
+                            -20,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41807",
+                "downloadUrl" : "http://hdl.handle.net/2451/40747",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40747",
+                "label" : "W020N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W020N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -20,
+                    -59.99999999999999,
+                    20,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            20,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41808",
+                "downloadUrl" : "http://hdl.handle.net/2451/40748",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40748",
+                "label" : "W020S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W020S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -59.99999999999999,
+                    -10,
+                    -20,
+                    40
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41809",
+                "downloadUrl" : "http://hdl.handle.net/2451/40749",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40749",
+                "label" : "W060N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W060N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -59.99999999999999,
+                    40,
+                    -20,
+                    90
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -59.99999999999999,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41810",
+                "downloadUrl" : "http://hdl.handle.net/2451/40750",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40750",
+                "label" : "W060N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W060N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -59.99999999999999,
+                    -59.99999999999999,
+                    -20,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -20,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41811",
+                "downloadUrl" : "http://hdl.handle.net/2451/40751",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40751",
+                "label" : "W060S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W060S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -59.99999999999999,
+                    -90,
+                    0,
+                    -59.99999999999999
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            0,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [0, -90, 0.008329999633133],
+                        [
+                            -59.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41812",
+                "downloadUrl" : "http://hdl.handle.net/2451/40752",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40752",
+                "label" : "W060S60",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W060S60"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -100,
+                    -10,
+                    -59.99999999999999,
+                    40
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41813",
+                "downloadUrl" : "http://hdl.handle.net/2451/40753",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40753",
+                "label" : "W100N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W100N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -100,
+                    40,
+                    -59.99999999999999,
+                    90
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -100,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41814",
+                "downloadUrl" : "http://hdl.handle.net/2451/40754",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40754",
+                "label" : "W100N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W100N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -100,
+                    -59.99999999999999,
+                    -59.99999999999999,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41815",
+                "downloadUrl" : "http://hdl.handle.net/2451/40755",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40755",
+                "label" : "W100S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W100S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -119.99999999999999,
+                    -90,
+                    -59.99999999999999,
+                    -59.99999999999999
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -119.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -59.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            -119.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            -119.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41816",
+                "downloadUrl" : "http://hdl.handle.net/2451/40756",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40756",
+                "label" : "W120S60",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W120S60"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [-140, -10, -100, 40],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41817",
+                "downloadUrl" : "http://hdl.handle.net/2451/40757",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40757",
+                "label" : "W140N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W140N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [-140, 40, -100, 90],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -140,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41818",
+                "downloadUrl" : "http://hdl.handle.net/2451/40758",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40758",
+                "label" : "W140N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W140N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -140,
+                    -59.99999999999999,
+                    -100,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -100,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41819",
+                "downloadUrl" : "http://hdl.handle.net/2451/40759",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40759",
+                "label" : "W140S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W140S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [-180, -10, -140, 40],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -180,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            40,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41820",
+                "downloadUrl" : "http://hdl.handle.net/2451/40760",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40760",
+                "label" : "W180N40",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W180N40"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [-180, 40, -140, 90],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -180,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            90,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            40,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            90,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41821",
+                "downloadUrl" : "http://hdl.handle.net/2451/40761",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40761",
+                "label" : "W180N90",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W180N90"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -180,
+                    -59.99999999999999,
+                    -140,
+                    -10
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -180,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            -10,
+                            0.008329999633133
+                        ],
+                        [
+                            -140,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            -10,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41822",
+                "downloadUrl" : "http://hdl.handle.net/2451/40762",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40762",
+                "label" : "W180S10",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W180S10"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -180,
+                    -90,
+                    -119.99999999999999,
+                    -59.99999999999999
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -180,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -119.99999999999999,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ],
+                        [
+                            -119.99999999999999,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            -90,
+                            0.008329999633133
+                        ],
+                        [
+                            -180,
+                            -59.99999999999999,
+                            0.008329999633133
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "available" : true,
+                "recordIdentifer" : "41823",
+                "downloadUrl" : "http://hdl.handle.net/2451/40763",
+                "websiteUrl" : "https://geo.nyu.edu/catalog/nyu_2451_40763",
+                "label" : "W180S60",
+                "title" : "Global 30 Arc-Second Elevation, Sheet W180S60"
+            }
+        }
+    ],
+    "fileName" : "nyu_2451_38716"
 }
