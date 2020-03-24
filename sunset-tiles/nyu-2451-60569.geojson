@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "nyu-2451-60547",
+  "name": "nyu-2451-60569",
   "crs": {
     "type": "name",
     "properties": {
@@ -16,7 +16,7 @@
         "recordIdentifier": "t974000_172000",
         "downloadUrl": "http://hdl.handle.net/2451/60547",
         "websiteUrl": "https://geo.nyu.edu/catalog/nyu-2451-60547",
-        "available": false
+        "available": true
       },
       "geometry": {
         "type": "Polygon",
@@ -1384,7 +1384,7 @@
         "recordIdentifier": "t975500_173500",
         "downloadUrl": "http://hdl.handle.net/2451/60569",
         "websiteUrl": "https://geo.nyu.edu/catalog/nyu-2451-60569",
-        "available": true
+        "available": false
       },
       "geometry": {
         "type": "Polygon",
